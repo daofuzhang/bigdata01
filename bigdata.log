@@ -1,0 +1,8 @@
+2020-06-19 10:42:13.286  INFO 9864 --- [main] c.w.bigdata.WantBigdataApplicationTests  : Starting WantBigdataApplicationTests on shqpc00002368 with PID 9864 (started by 00291315 in D:\myworkspace\2020\zdf\want-bigdata)
+2020-06-19 10:42:13.288  INFO 9864 --- [main] c.w.bigdata.WantBigdataApplicationTests  : No active profile set, falling back to default profiles: default
+2020-06-19 10:42:14.008  WARN 9864 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.want.bigdata]' package. Please check your configuration.
+2020-06-19 10:42:14.908  INFO 9864 --- [main] c.w.bigdata.WantBigdataApplicationTests  : Started WantBigdataApplicationTests in 1.977 seconds (JVM running for 3.496)
+2020-06-19 10:47:41.483  INFO 8760 --- [main] c.w.bigdata.WantBigdataApplicationTests  : Starting WantBigdataApplicationTests on shqpc00002368 with PID 8760 (started by 00291315 in D:\myworkspace\2020\zdf\want-bigdata)
+2020-06-19 10:47:41.488  INFO 8760 --- [main] c.w.bigdata.WantBigdataApplicationTests  : No active profile set, falling back to default profiles: default
+2020-06-19 10:47:42.239  WARN 8760 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.want.bigdata]' package. Please check your configuration.
+2020-06-19 10:47:43.107  INFO 8760 --- [main] c.w.bigdata.WantBigdataApplicationTests  : Started WantBigdataApplicationTests in 2.041 seconds (JVM running for 3.468)
